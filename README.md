@@ -1,1 +1,1 @@
-# odin-recipes
+The current project will be a basic recipe website. The user can chose what recipe they would like to cook based on whats given. By the end of this project, I've learned creating basic html website with its own public repository via Github.
